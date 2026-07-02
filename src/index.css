@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  /* Custom Blackstone color slate - Sophisticated Dark theme */
+  --color-brand-50: #050505;
+  --color-brand-100: #0c0c0e;
+  --color-brand-200: rgba(255, 255, 255, 0.08);
+  --color-brand-300: rgba(255, 255, 255, 0.15);
+  --color-brand-400: rgba(255, 255, 255, 0.3);
+  --color-brand-500: #a3a3a5; /* Sophisticated muted silver-grey */
+  --color-brand-600: #c2c2c5;
+  --color-brand-700: #e5e5e7; /* Pristine content */
+  --color-brand-800: #f5f5f7; /* High contrast headers */
+  --color-brand-900: #09090b; /* Deep luxury obsidian */
+
+  --color-blackstone-dark: #030303;
+  --color-blackstone-gold: #c5a059; /* Metallic refined luxurious gold */
+}
+
+/* Custom layout helper animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes scaleUp {
+  from { opacity: 0; transform: scale(0.95); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-scale-up {
+  animation: scaleUp 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Beautiful responsive style defaults */
+body {
+  font-family: var(--font-sans);
+  color: var(--color-brand-700);
+  background-color: var(--color-brand-50);
+}
+
+::selection {
+  background-color: var(--color-blackstone-gold);
+  color: var(--color-brand-900);
+}
+
+/* Scrollbar customizations to look premium */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #050505;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1a1a1e;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2a2a2e;
+}
+
+/* Glassmorphism panel style */
+.glass-panel {
+  background: rgba(12, 12, 14, 0.7);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* GLOBAL OVERRIDES to intercept hardcoded light utility classes to Sophisticated Dark */
+.bg-white {
+  background-color: #0c0c0e !important;
+}
+
+.text-brand-900 {
+  color: #f5f5f7 !important;
+}
+
+.text-brand-800 {
+  color: #e5e5e7 !important;
+}
+
+.text-brand-500 {
+  color: #a3a3a5 !important;
+}
+
+.border-brand-100 {
+  border-color: rgba(255, 255, 255, 0.05) !important;
+}
+
+.border-brand-200 {
+  border-color: rgba(255, 255, 255, 0.08) !important;
+}
+
+.border-brand-300 {
+  border-color: rgba(255, 255, 255, 0.15) !important;
+}
+
+.bg-brand-50 {
+  background-color: #050505 !important;
+}
+
+.bg-brand-100 {
+  background-color: #121214 !important;
+}
+
+.hover\:bg-brand-50:hover {
+  background-color: rgba(255, 255, 255, 0.03) !important;
+}
+
+.hover\:bg-brand-100:hover {
+  background-color: rgba(255, 255, 255, 0.06) !important;
+}
+
+/* Form Elements (input, textarea, select) Override for flawless dark theme experience */
+input, textarea, select {
+  background-color: rgba(255, 255, 255, 0.03) !important;
+  color: #f5f5f7 !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+input:focus, textarea:focus, select:focus {
+  border-color: #c5a059 !important;
+  box-shadow: 0 0 0 1px rgba(197, 160, 89, 0.25) !important;
+  outline: none !important;
+}
+
+/* Headers of tables or detail lists */
+th {
+  background-color: rgba(255, 255, 255, 0.03) !important;
+  color: #c5a059 !important;
+}

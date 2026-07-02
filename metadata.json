@@ -1,0 +1,6 @@
+{
+  "name": "Blackstone Marketing Agency",
+  "description": "Modern website for Blackstone Marketing Agency including services, portfolio, blogs, pricing, contact, a client portal, and an admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,420 @@
+{
+  "SERVICES": [
+    {
+      "id": "seo",
+      "name": "Search Engine Optimization (SEO)",
+      "icon": "Search",
+      "shortDesc": "Drive high-quality organic traffic, boost visibility, and secure top rankings on Google with data-driven technical, on-page, and off-page optimization.",
+      "longDesc": "Our comprehensive SEO suite is designed to increase your brand's organic visibility. We combine technical audits, comprehensive keyword mapping, intent analysis, on-page code optimization, and a high-tier digital PR link-building process to build a search foundation that sustains long-term compound growth.",
+      "benefits": [
+        "Increase qualified organic traffic by 150%+ in 6 months.",
+        "Establish domain authority and outrank entrenched competitors.",
+        "Reduce reliance on expensive paid acquisition over time.",
+        "Improve site load speed, user experience, and mobile usability."
+      ],
+      "process": [
+        "Comprehensive Site & Technical SEO Audit",
+        "Competitor Keyword Gap & Search Intent Analysis",
+        "Content Strategy & Core Keyword Mapping",
+        "Technical Optimizations (Core Web Vitals, Schema Markup)",
+        "E-E-A-T Content Development & Digital PR Outreach"
+      ],
+      "pricing": "Starting at ₹1,80,000 / month",
+      "faq": [
+        { "q": "How long does it take to see tangible SEO results?", "a": "Generally, initial ranking improvements can be observed within 3 to 4 months, but significant revenue-driving traffic growth usually compounding between 6 to 9 months." },
+        { "q": "Do you guarantee top rankings on Google?", "a": "No reputable agency can guarantee #1 rankings due to constant algorithm updates. However, we guarantee a proven methodology that has consistently increased organic share-of-voice for 95% of our clients." },
+        { "q": "What is included in your monthly SEO reports?", "a": "We track organic conversions, search impressions, organic traffic volume, keyword ranking changes, and completed structural tasks, along with exact, actionable next steps." }
+      ]
+    },
+    {
+      "id": "ppc",
+      "name": "Pay-Per-Click Advertising (PPC)",
+      "icon": "MousePointerClick",
+      "shortDesc": "Scale revenue immediately with hyper-targeted paid search and social campaigns across Google Ads, Meta Ads, and LinkedIn with a focus on maximum ROI.",
+      "longDesc": "We build high-converting paid search and social media funnels. By focusing on intent-driven keywords, laser-targeted demographic profiling, multi-variant ad creative testing, and customized high-performance landing pages, we ensure every rupee of your ad spend generates maximum pipeline value.",
+      "benefits": [
+        "Instant lead and sales generation from day one of launch.",
+        "Precise demographic, geographic, and search-intent targeting.",
+        "Full budget control with clear attribution and ROI measurement.",
+        "Continuous campaign testing and conversion rate optimization (CRO)."
+      ],
+      "process": [
+        "Competitor Ad Analysis & Keyword Research",
+        "Funnel Architecture & Dedicated Landing Page Building",
+        "Ad Copywriting, Creative Design & Visual Assets Selection",
+        "Conversion Tracking, Attribution & Analytics Setup",
+        "Daily Bid Management, Audience Refinement & Scaling"
+      ],
+      "pricing": "Starting at ₹1,10,000 / month + % of ad spend",
+      "faq": [
+        { "q": "Which paid channels are right for my business?", "a": "We recommend Google Search Ads for high intent (customers looking to buy right now) and Meta/Instagram Ads or LinkedIn for audience building, brand awareness, and B2B prospecting." },
+        { "q": "What is your minimum ad spend requirement?", "a": "We recommend starting with at least ₹1,50,000 / month in direct ad spend to ensure we capture enough statistical data to test, optimize, and scale campaigns efficiently." }
+      ]
+    },
+    {
+      "id": "smm",
+      "name": "Social Media Marketing",
+      "icon": "Share2",
+      "shortDesc": "Build a passionate, engaged community around your brand with organic content creation, scheduling, influencer partnerships, and active social listening.",
+      "longDesc": "Transform your social channels into dynamic brand assets. We handle creative planning, copy generation, custom graphic design, short-form video production, scheduling, influencer outreach, and proactive community engagement across Instagram, TikTok, LinkedIn, and YouTube.",
+      "benefits": [
+        "Foster deep loyalty and active community engagement with your brand.",
+        "Increase organic brand reach and impressions on key platforms.",
+        "Generate consistent, high-fidelity visual assets representing your identity.",
+        "Position your founders and executives as industry thought leaders."
+      ],
+      "process": [
+        "Social Media Audit & Competitor Breakdown",
+        "Visual Style & Communication Tone Definition",
+        "Monthly Content Calendar & Visual Asset Design",
+        "Publishing, Community Engagement & Comment Monitoring",
+        "Monthly Trend Tracking & Audience Growth Reporting"
+      ],
+      "pricing": "Starting at ₹1,30,000 / month",
+      "faq": [
+        { "q": "Do you create short-form video content like Reels and TikToks?", "a": "Yes! We coordinate scriptwriting, storyboarding, template design, and professional editing for highly engaging short-form vertical videos." },
+        { "q": "Do we get to approve the posts before they go live?", "a": "Absolutely. All content is placed in our scheduling portal for your feedback and explicit sign-off at least two weeks before the planned posting date." }
+      ]
+    },
+    {
+      "id": "content",
+      "name": "Content Marketing & Digital PR",
+      "icon": "FileText",
+      "shortDesc": "Establish authority with expert-written articles, research papers, email newsletters, and press releases that attract links and build customer trust.",
+      "longDesc": "We craft high-impact content that answers your audience's most critical questions. From search-optimized blogs and comprehensive guides to customer success stories, visual infographics, and thought-leadership articles, we fuel every channel with compelling narratives.",
+      "benefits": [
+        "Generate premium organic backlinks from reputable publications.",
+        "Establish lasting authority that converts hesitant prospects.",
+        "Fuel your email newsletters and social channels with valuable resources.",
+        "Build long-term evergreen organic assets that never expire."
+      ],
+      "process": [
+        "Content Gap & Subject Matter Expert Interviews",
+        "SEO-Optimized Content Briefs & Outlines Creation",
+        "Premium Writing, Copy-Editing & Graphic Support",
+        "Digital PR Pitching & Resource Link Outreach",
+        "Performance Tracking & Content Optimization Cycles"
+      ],
+      "pricing": "Starting at ₹1,50,000 / month",
+      "faq": [
+        { "q": "Who writes the content?", "a": "We have a dedicated in-house team of professional copywriters and subject-matter editors with deep experience across SaaS, healthcare, finance, and e-commerce." }
+      ]
+    },
+    {
+      "id": "webdev",
+      "name": "Web Design & Development",
+      "icon": "Code",
+      "shortDesc": "Deploy fast, modern, and high-converting custom React websites with optimal mobile layouts, custom client portals, and seamless API integrations.",
+      "longDesc": "Your website is the center of your marketing universe. We build custom React/Next.js websites that combine bespoke UX design, high-speed performance, comprehensive SEO readiness, and robust client portals to transform simple visitors into active leads.",
+      "benefits": [
+        "Sub-2 second page loads with fully optimized static and server rendering.",
+        "Fully custom responsive design that perfectly fits your brand identity.",
+        "Integrated conversion mechanisms, tracking scripts, and client workflows.",
+        "Highly secure, headless CMS architectures for seamless in-house editing."
+      ],
+      "process": [
+        "User Journey Mapping, Wireframing & Bespoke UX Design",
+        "High-Fidelity UI Design & Prototyping (Figma)",
+        "Modern Frontend & Custom Client-Portal React/Next.js Code",
+        "API Integration & Speed Optimization Audit",
+        "Rigorous Browser Testing, Security Hardening & Launch"
+      ],
+      "pricing": "Custom Quote (Typically ₹3,50,000 - ₹18,00,000)",
+      "faq": [
+        { "q": "Are your websites mobile friendly?", "a": "Every site we construct uses a mobile-first fluid layout grid, ensuring a perfect visual layout and responsive interactions on all devices." },
+        { "q": "Will I be able to edit the website content ourselves?", "a": "Yes. We build clean headless CMS connections (like Sanity or Strava) or simple custom blocks so your team can easily update blogs, team pages, and services." }
+      ]
+    }
+  ],
+  "PORTFOLIO_ITEMS": [
+    {
+      "id": "p1",
+      "title": "Fintech Organic Growth Engine",
+      "category": "SEO",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80",
+      "client": "AuraPay SaaS",
+      "clientReview": "Blackstone delivered outstanding results. Our organic traffic and customer signups tripled within five months. They are true strategic partners.",
+      "reviewerName": "Marcus Vance, VP of Growth",
+      "results": ["+245% Organic Traffic", "Top 3 Rankings for 80+ Core Terms", "3.5x Customer Acquisition Rate"],
+      "beforeVal": "45k monthly organic impressions",
+      "afterVal": "420k monthly organic impressions"
+    },
+    {
+      "id": "p2",
+      "title": "Hyper-Scale E-commerce Campaign",
+      "category": "PPC",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
+      "client": "SwiftCart Brands",
+      "clientReview": "Their paid-ads funnel completely overhauled our e-commerce store. Our return on ad spend (ROAS) reached a record 4.8x on Meta and Google.",
+      "reviewerName": "Julia Thorne, Founder & CEO",
+      "results": ["4.8x Return on Ad Spend", "-32% Cost Per Acquisition (CPA)", "₹1.2Cr Generated Revenue"],
+      "beforeVal": "1.2x average ROAS",
+      "afterVal": "4.8x audited ROAS"
+    },
+    {
+      "id": "p3",
+      "title": "Brand Rebirth & Social Sensation",
+      "category": "Social Media",
+      "image": "https://images.unsplash.com/photo-1542744094-3a31f103e35f?auto=format&fit=crop&w=800&q=80",
+      "client": "Helix Logistics",
+      "clientReview": "We needed to modernize our industrial brand. Blackstones team designed a magnificent, clean visual language and grew our social footprint exponentially.",
+      "reviewerName": "Sarah Jenkins, CMO",
+      "results": ["+4.2M Monthly Impressions", "78k Active Followers Gained", "180+ Enterprise Leads Sourced"],
+      "beforeVal": "1,200 dormant followers",
+      "afterVal": "79,200 active professional followers"
+    },
+    {
+      "id": "p4",
+      "title": "Custom Enterprise Portal Launch",
+      "category": "Web Development",
+      "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
+      "client": "Zenith Ventures",
+      "clientReview": "The team built an incredibly fast, custom React-based onboarding flow and client support module. Our customer feedback has been flawless.",
+      "reviewerName": "David Lee, Chief Technology Officer",
+      "results": ["1.4s Page Load Speed", "99.9% Web Accessibility Score", "-45% Customer Ticket Volume"],
+      "beforeVal": "Stale WordPress legacy portal",
+      "afterVal": "Custom Headless Next.js portal"
+    }
+  ],
+  "CASE_STUDIES": [
+    {
+      "id": "cs1",
+      "title": "Accelerating SwiftCarts Digital Pipeline",
+      "client": "SwiftCart Brands",
+      "overview": "SwiftCart is a rapidly scaling e-commerce brand that had struggled with high customer acquisition costs and low ad creative conversion rates across paid search and paid social networks.",
+      "problem": "Ad creative fatigue, unoptimized landing page layouts, and overly broad keyword targeting resulted in a plateaued return on ad spend (ROAS) of 1.4x, making paid channels unprofitable.",
+      "strategy": "Our team structured search terms around high-intent long-tail keywords, built hyper-personalized video creatives for Instagram & TikTok, and deployed customized React landing pages with exit-intent discounts and frictionless checkouts.",
+      "execution": "Deployed a tiered retargeting framework, executed over 40 distinct A/B layout tests, and scaled weekly spend while continuously trimming underperforming ad groups based on live conversion data.",
+      "results": [
+        "Boosted audited Return on Ad Spend (ROAS) to a record 4.8x.",
+        "Slashed average Cost Per Acquisition (CPA) by 32%.",
+        "Generated over ₹1.2Cr in direct attributable pipeline revenue in 90 days."
+      ],
+      "stats": [
+        { "label": "ROAS", "value": "4.8x" },
+        { "label": "CPA Reduction", "value": "-32%" },
+        { "label": "Revenue Generated", "value": "₹1.2Cr" }
+      ]
+    },
+    {
+      "id": "cs2",
+      "title": "AuraPays Organic Ascent to Domain Authority",
+      "client": "AuraPay SaaS",
+      "overview": "AuraPay is a digital finance SaaS looking to expand its pipeline of organic signups by building trust and ranking for high-value technical fintech search terms.",
+      "problem": "AuraPay had minimal organic domain authority, low technical site indexing scores, and a backlog of unstructured blog content that did not focus on keyword search intent.",
+      "strategy": "We performed a deep technical SEO overhaul to cure indexing crawl errors, deployed clean structured JSON-LD schema, conducted keyword search-intent mapping, and published extensive high-quality E-E-A-T guides.",
+      "execution": "Optimized technical core web vitals, launched an authoritative fintech hub containing 15 long-form pillar articles, and executed a digital PR outreach program that secured 30+ organic backlinks from Forbes, TechCrunch, and Insider.",
+      "results": [
+        "Grew organic traffic search impressions by 245% inside 5 months.",
+        "Secured position-one Google ranks for 24 competitive fintech keywords.",
+        "Established high compound referral signups representing a 210% increase."
+      ],
+      "stats": [
+        { "label": "Organic Traffic", "value": "+245%" },
+        { "label": "Top 3 Keywords", "value": "80+" },
+        { "label": "Signups Increase", "value": "+210%" }
+      ]
+    }
+  ],
+  "BLOGS": [
+    {
+      "id": "b1",
+      "title": "The Future of SEO in the Era of Generative Search",
+      "excerpt": "Explore how Google's Search Generative Experience (SGE) is shifting organic ranking metrics and what you must change to stay visible.",
+      "content": "The search landscape is undergoing its most radical evolution since the mobile transition. With the roll-out of Generative AI-powered search overviews, user interaction patterns are shifting from standard link clicking to direct narrative answers. To thrive, brands must transition from keyword stuffing to high-value informational synthesis. Focus heavily on original research, expert expert-interviews (building deep E-E-A-T indicators), and structural schema metadata that allows LLMs to easily parse and cite your authoritative resources.",
+      "category": "SEO",
+      "author": "Devon Carter, Head of Search",
+      "date": "June 24, 2026",
+      "readTime": "5 min read",
+      "tags": ["SEO", "AI Search", "Content Strategy"],
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "b2",
+      "title": "5 Costly Google Ads Pitfalls and How to Avoid Them",
+      "excerpt": "Stop burning your marketing budget. Learn the critical configuration errors that sabotage paid search campaigns.",
+      "content": "Paid acquisition is an incredible growth engine, but tiny setup errors can quickly lead to high wasted spend. The most common pitfall is over-relying on Broad Match keywords without a robust, daily negative keyword registry. This results in bidding on completely irrelevant queries. Additionally, failing to build dedicated, high-converting responsive landing pages, ignoring multi-touch attribution metrics, and maintaining weak, repetitive ad copy can cut your quality score in half. Refine your audiences and focus strictly on purchase-intent phrases.",
+      "category": "PPC",
+      "author": "Elena Rostova, Paid Ads Director",
+      "date": "June 18, 2026",
+      "readTime": "7 min read",
+      "tags": ["Google Ads", "PPC", "CRO"],
+      "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "b3",
+      "title": "Crafting a High-Performance Social Video Funnel",
+      "excerpt": "How to design, write, edit, and leverage short-form TikToks and Instagram Reels to capture qualified buyer leads.",
+      "content": "Short-form visual media is the modern doorway to user attention. However, simply chasing viral audio trends does not convert viewers into customers. To generate qualified leads, structure your short-form video content around a clear marketing framework: the first 2 seconds must hold a strong, specific hook; the mid-section must deliver deep value or resolve a standard pain point; and the end must issue an explicit, clickable call-to-action that leads to a custom resources page.",
+      "category": "Social Media",
+      "author": "Jordan Sterling, Social Strategist",
+      "date": "June 11, 2026",
+      "readTime": "6 min read",
+      "tags": ["Social Media", "TikTok", "Video Marketing"],
+      "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "TESTIMONIALS": [
+    {
+      "id": "t1",
+      "name": "Julia Thorne",
+      "role": "Founder & CEO",
+      "company": "SwiftCart Brands",
+      "text": "Working with Blackstone changed everything. Their PPC campaigns were the first to deliver predictable, highly profitable e-commerce growth. Our ROAS climbed to 4.8x and has remained there.",
+      "rating": 5,
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80"
+    },
+    {
+      "id": "t2",
+      "name": "Marcus Vance",
+      "role": "VP of Growth",
+      "company": "AuraPay SaaS",
+      "text": "Their technical SEO knowledge and high-quality outreach got us on page one for incredibly competitive terms. Our organic traffic growth has become our single best customer source.",
+      "rating": 5,
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80"
+    },
+    {
+      "id": "t3",
+      "name": "Sarah Jenkins",
+      "role": "CMO",
+      "company": "Helix Logistics",
+      "text": "The rebranding project exceeded all parameters. They structured an elegant corporate identity, launched our high-speed website, and made us look like the true category leaders we are.",
+      "rating": 5,
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=150&q=80"
+    }
+  ],
+  "CAREERS": [
+    {
+      "id": "car1",
+      "title": "Senior SEO Strategist",
+      "department": "Organic Growth",
+      "location": "Remote / Sector15 A Faridabad",
+      "type": "Full-time",
+      "description": "We are seeking a senior organic growth expert to oversee technical SEO campaigns, plan search-intent content briefs, and coordinate digital PR outreach for high-growth SaaS and enterprise clients.",
+      "requirements": [
+        "5+ years of proven organic search experience (agency background preferred).",
+        "Advanced mastery of technical audits, crawl diagnostics, Screaming Frog, Semrush, and Google Search Console.",
+        "Strong grasp of E-E-A-T principles and content outline drafting.",
+        "Excellent presentation skills to communicate growth progress with executive client teams."
+      ]
+    },
+    {
+      "id": "car2",
+      "title": "Senior Growth Ads Specialist (PPC)",
+      "department": "Paid Acquisition",
+      "location": "Hybrid (Faridabad / Delhi NCR)",
+      "type": "Full-time",
+      "description": "Lead high-performing paid acquisition funnels on Google Ads, Meta Ads, and LinkedIn for our fastest-growing e-commerce and B2B SaaS accounts.",
+      "requirements": [
+        "4+ years managing monthly client ad budgets exceeding ₹1,50,000.",
+        "Deep fluency with Google Ads Editor, custom audience segmentation, and multi-touch attribution setups.",
+        "Experience directing designers and copywriters to create high-performing ad visual assets.",
+        "Excellent analytical skills and conversion rate optimization (CRO) expertise."
+      ]
+    }
+  ],
+  "SEED_CLIENTS": [
+    { "id": "cli_swift", "name": "SwiftCart Brands", "email": "client@swiftcart.com", "company": "SwiftCart" },
+    { "id": "cli_aura", "name": "AuraPay SaaS", "email": "client@aurapay.com", "company": "AuraPay" }
+  ],
+  "INITIAL_PROJECTS": [
+    {
+      "id": "proj_1",
+      "name": "SwiftCart Paid Funnel Acceleration",
+      "clientName": "SwiftCart Brands",
+      "clientId": "cli_swift",
+      "status": "In Progress",
+      "progress": 75,
+      "startDate": "May 10, 2026",
+      "reports": [
+        { "name": "May Acquisition & CPA Report", "date": "June 01, 2026", "url": "#" },
+        { "name": "Ad Creative Multi-Variant Test Results", "date": "June 15, 2026", "url": "#" }
+      ],
+      "docs": [
+        { "name": "Q3 Funnel Budget Proposal.pdf", "size": "1.2 MB", "url": "#" },
+        { "name": "Auditor Retargeting Map.pdf", "size": "2.4 MB", "url": "#" }
+      ]
+    },
+    {
+      "id": "proj_2",
+      "name": "AuraPay Organic Authority Campaign",
+      "clientName": "AuraPay SaaS",
+      "clientId": "cli_aura",
+      "status": "In Progress",
+      "progress": 60,
+      "startDate": "April 01, 2026",
+      "reports": [
+        { "name": "Technical Audit & Schema Log", "date": "April 20, 2026", "url": "#" },
+        { "name": "Organic Traffic Backlink Summary", "date": "June 01, 2026", "url": "#" }
+      ],
+      "docs": [
+        { "name": "Primary Keyword Intent Map.xlsx", "size": "480 KB", "url": "#" },
+        { "name": "Authority Content Roadmap.pdf", "size": "1.8 MB", "url": "#" }
+      ]
+    }
+  ],
+  "INITIAL_INVOICES": [
+    { "id": "inv_101", "amount": 250000, "dueDate": "July 15, 2026", "status": "Unpaid", "date": "July 01, 2026", "clientId": "cli_swift" },
+    { "id": "inv_102", "amount": 110000, "dueDate": "July 10, 2026", "status": "Paid", "date": "June 25, 2026", "clientId": "cli_swift" },
+    { "id": "inv_103", "amount": 180000, "dueDate": "July 20, 2026", "status": "Unpaid", "date": "July 01, 2026", "clientId": "cli_aura" },
+    { "id": "inv_104", "amount": 180000, "dueDate": "June 20, 2026", "status": "Paid", "date": "June 01, 2026", "clientId": "cli_aura" }
+  ],
+  "INITIAL_TICKETS": [
+    {
+      "id": "tkt_301",
+      "clientId": "cli_swift",
+      "subject": "Request for custom creative visual sizing for Pinterest Ads",
+      "status": "Open",
+      "priority": "Medium",
+      "description": "We are expanding our social outreach to Pinterest and require our core custom ad creatives to be resized to 2:3 ratio graphics. Can your design team support this?",
+      "date": "June 30, 2026",
+      "category": "Creative Design",
+      "replies": [
+        { "author": "Elena Rostova (Ads Director)", "message": "Absolutely, Julia! I have briefed our design team. We will have the 2:3 Pinterest templates compiled and uploaded to your documents folder by tomorrow morning.", "date": "July 01, 2026 10:15 AM" }
+      ]
+    },
+    {
+      "id": "tkt_302",
+      "clientId": "cli_aura",
+      "subject": "Slight dip in Google Impressions on June 15",
+      "status": "Resolved",
+      "priority": "Low",
+      "description": "Noticed a minor search impression drop in our GSC console around mid-June. Is this a broader core algorithm indexing adjustment?",
+      "date": "June 16, 2026",
+      "category": "SEO Strategy",
+      "replies": [
+        { "author": "Devon Carter (Head of Search)", "message": "Hi Marcus. Yes, there was a minor local update, but it primarily impacted unverified directories. Our manual analytics show our core terms regained full share-of-voice within 48 hours. Nothing to worry about!", "date": "June 17, 2026 09:30 AM" }
+      ]
+    }
+  ],
+  "INITIAL_LEADS": [
+    {
+      "id": "lead_501",
+      "name": "Gregory Scott",
+      "email": "gregory@scottholdings.com",
+      "phone": "+91 98765 43210",
+      "company": "Scott Holdings LLC",
+      "budget": "₹3,50,000 - ₹7,50,000",
+      "servicesNeeded": ["SEO", "Web Development"],
+      "message": "We are looking for an agency to completely redesign our corporate website and build a continuous organic lead acquisition funnel.",
+      "date": "July 01, 2026",
+      "status": "New"
+    },
+    {
+      "id": "lead_502",
+      "name": "Amanda Lin",
+      "email": "amanda.lin@glowbeauty.com",
+      "phone": "+91 88776 65544",
+      "company": "Glow Beauty Cosmetics",
+      "budget": "₹7,50,000 - ₹18,00,000",
+      "servicesNeeded": ["PPC", "Social Media"],
+      "message": "We need to aggressively scale our online store purchases on Meta/TikTok in time for the summer season. Need a reliable PPC partner.",
+      "date": "June 28, 2026",
+      "status": "Contacted"
+    }
+  ],
+  "INITIAL_MESSAGES": [
+    { "id": "msg_1", "senderId": "cli_swift", "senderName": "Julia (SwiftCart)", "senderRole": "client", "text": "Hey Blackstone team! Just checked the live dashboard. The Meta ROAS has crossed 4.8x today, which is amazing! Are we okay to increase budget by 20%?", "timestamp": "July 01, 2026 11:15 AM" },
+    { "id": "msg_2", "senderId": "admin", "senderName": "Elena (Admin)", "senderRole": "admin", "text": "Hi Julia, yes! The metrics are looking highly stable and we have clear ad placement inventory to scale. I have drafted a 20% budget expansion report. Let's go ahead!", "timestamp": "July 01, 2026 11:32 AM" }
+  ]
+}
